@@ -1,0 +1,59 @@
+body{
+    background-color: #111;
+    color: white;
+
+}
+
+.btn-resume{
+    background-color: cyan;
+    color: black;
+    font-weight: bold;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: white;
+    font-size: larger;
+    font-weight: bold;
+}
+
+.highlight {
+    
+    font-size: 50px;
+    color: cyan;
+}
+.highlight2{
+    font-size: 20px;
+}
+.t1{
+    color: cyan;
+    font-weight: bold;
+}
+.skills-badge {
+    background-color: #333;
+    color: white;
+    margin: 3px;
+    display: inline-block;
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-size: 0.85rem;
+}
+.card {
+    background-color: #222;
+    color: white;
+    border: 1px solid #444;
+}
+footer {
+    background-color: #111;
+    padding: 20px 0;
+    text-align: center;
+    border-top: 1px solid #333;
+}
+footer a {
+    color: cyan;
+    margin: 0 10px;
+}
+.form-control {
+    background-color: transparent;
+    color: white;
+    border: 1px solid #555;
+}
